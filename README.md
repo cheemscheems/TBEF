@@ -204,6 +204,7 @@ For reproducibility, this repository keeps the following implementation assumpti
 
 If you change the tokenizer, sequence length, data directory, or model switches, please regenerate the feature cache and record the modified hyperparameters in the corresponding experiment directory.
 
+For reproducibility and reference, the supplementary appendix PDF mentioned in the paper is provided in this repository under the filename `TBEF_appendix.pdf`.
 
 ## Citation
 
